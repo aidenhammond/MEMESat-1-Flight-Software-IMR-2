@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/LogPortAc.hpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/LogPortAc.cpp
+
+
+port
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/framework.txt

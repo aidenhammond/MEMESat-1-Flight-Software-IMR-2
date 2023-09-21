@@ -1,0 +1,2 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/AcConstants.fpp

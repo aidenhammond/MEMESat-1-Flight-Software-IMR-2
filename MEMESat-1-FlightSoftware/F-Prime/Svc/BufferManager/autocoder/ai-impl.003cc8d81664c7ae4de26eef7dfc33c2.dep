@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferManager/BufferManagerComponentImpl.hpp-template;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferManager/BufferManagerComponentImpl.cpp-template
+
+
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferManager/BufferManager.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/BufferManager/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/BufferManager/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/BufferManager/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/BufferManager/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/BufferManager/framework.txt

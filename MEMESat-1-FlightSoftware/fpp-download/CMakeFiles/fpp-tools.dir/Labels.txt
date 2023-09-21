@@ -1,0 +1,14 @@
+# Target labels
+ fpp-tools
+# Source files and their labels
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools-complete.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-install.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-mkdir.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-download.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-update.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-patch.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-configure.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-build.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-test.rule

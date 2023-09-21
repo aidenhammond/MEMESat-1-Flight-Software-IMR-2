@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/FileManagerComponentAc.hpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/FileManagerComponentAc.cpp
+
+
+component
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileManager/FileManager.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileManager/framework.txt

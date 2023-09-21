@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_Obj.a  CMakeFiles/Fw_Obj.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_Obj.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_SystemResources.a  CMakeFiles/Svc_SystemResources.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_SystemResources.a

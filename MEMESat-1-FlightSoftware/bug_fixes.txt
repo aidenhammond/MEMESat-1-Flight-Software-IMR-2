@@ -1,0 +1,13 @@
+===== 1 =====
+
+Traceback (most recent call last):
+  File "/Users/aiden/MEMESat-1-FlightSoftware/Autocoders/Python/bin/codegen.py", line 17, in <module>
+    from lxml import etree
+ImportError: dlopen(/Users/aiden/fprime-venv/lib/python3.10/site-packages/lxml/etree.cpython-310-darwin.so, 0x0002): tried: '/Users/aiden/fprime-venv/lib/python3.10/site-packages/lxml/etree.cpython-310-darwin.so' (mach-o file, but is an incompatible architecture (have (x86_64), need (arm64e)))
+gmake[3]: *** [F-Prime/Fw/Types/CMakeFiles/Fw_Types.dir/build.make:74: F-Prime/Fw/Types/DeserialStatusEnumAc.hpp] Error 1
+gmake[2]: *** [CMakeFiles/Makefile2:3003: F-Prime/Fw/Types/CMakeFiles/Fw_Types.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:2149: CMakeFiles/Ref.dir/rule] Error 2
+gmake: *** [Makefile:195: Ref] Error 2
+[ERROR] CMake erred with return code 2
+
+

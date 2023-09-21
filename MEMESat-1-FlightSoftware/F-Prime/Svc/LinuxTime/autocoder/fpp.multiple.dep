@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/TimeComponentAi.xml
+Svc_Time;Fw_Time;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Time/Time.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Time/Time.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/LinuxTime/framework.txt

@@ -1,0 +1,3 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferLogger/Commands.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferLogger/Events.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/BufferLogger/Telemetry.fppi

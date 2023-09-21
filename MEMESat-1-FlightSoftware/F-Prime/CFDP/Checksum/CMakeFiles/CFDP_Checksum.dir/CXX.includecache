@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/CFDP/Checksum/Checksum.cpp
+CFDP/Checksum/Checksum.hpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/CFDP/Checksum/CFDP/Checksum/Checksum.hpp
+Fw/Types/Assert.hpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/CFDP/Checksum/Fw/Types/Assert.hpp
+
+CFDP/Checksum/Checksum.hpp
+Fw/Types/BasicTypes.hpp
+CFDP/Checksum/Fw/Types/BasicTypes.hpp
+
+Fw/Types/Assert.hpp
+FpConfig.hpp
+-
+Fw/Types/BasicTypes.hpp
+-
+
+Fw/Types/BasicTypes.hpp
+FpConfig.hpp
+-
+StandardTypes.hpp
+-
+
+Fw/Types/Linux/StandardTypes.hpp
+cstdint
+-
+
+config/FpConfig.hpp
+

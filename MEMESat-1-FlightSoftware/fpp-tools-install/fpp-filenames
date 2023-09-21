@@ -1,0 +1,3 @@
+#!/bin/sh
+
+  java -jar /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-filenames.jar $@

@@ -1,0 +1,28 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Searching for F prime modules in: /home/aiden/SSRL/MEMESat-1-FlightSoftware
+-- Autocoder constants file: /home/aiden/SSRL/MEMESat-1-FlightSoftware/config/AcConstants.ini
+-- Configuration header directory: /home/aiden/SSRL/MEMESat-1-FlightSoftware/config
+-- [fpp-tools] Searching for fpp-tools
+-- [fpp-tools] fpp-depend found at: /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend
+-- [fpp-tools] fpp-to-xml found at: /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-to-xml
+-- [fpp-tools] fpp-to-cpp found at: /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-to-cpp
+-- [fpp-tools] fpp-locate-defs found at: /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-locate-defs
+-- Target build toolchain/platform: Linux/Linux
+-- Including /home/aiden/SSRL/MEMESat-1-FlightSoftware/cmake/platform/Linux.cmake
+-- Installation directory: /home/aiden/SSRL/MEMESat-1-FlightSoftware/build-artifacts
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs

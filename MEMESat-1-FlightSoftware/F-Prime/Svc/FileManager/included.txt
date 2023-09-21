@@ -1,0 +1,3 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileManager/Commands.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileManager/Events.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileManager/Telemetry.fppi

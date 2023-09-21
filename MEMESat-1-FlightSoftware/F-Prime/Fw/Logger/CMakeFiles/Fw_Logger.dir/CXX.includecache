@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Logger/LogAssert.cpp
+Fw/Logger/LogAssert.hpp
+-
+Fw/Logger/Logger.hpp
+-
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Logger/Logger.cpp
+Fw/Logger/Logger.hpp
+-
+
+Fw/Logger/LogAssert.hpp
+Fw/Types/Assert.hpp
+-
+
+Fw/Logger/Logger.hpp
+Fw/Types/BasicTypes.hpp
+-
+
+Fw/Types/Assert.hpp
+FpConfig.hpp
+-
+Fw/Types/BasicTypes.hpp
+-
+
+Fw/Types/BasicTypes.hpp
+FpConfig.hpp
+-
+StandardTypes.hpp
+-
+
+Fw/Types/Linux/StandardTypes.hpp
+cstdint
+-
+
+config/FpConfig.hpp
+

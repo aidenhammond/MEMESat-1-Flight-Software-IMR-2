@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/ComLoggerComponentAc.hpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/ComLoggerComponentAc.cpp
+
+
+component
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ComLogger/ComLogger.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComLogger/framework.txt

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_CmdDispatcher.a  CMakeFiles/Svc_CmdDispatcher.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_CmdDispatcher.a

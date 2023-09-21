@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/GenericHubComponentAi.xml
+Fw_Buffer;Os;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/GenericHub/GenericHub.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/AcConstants.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/GenericHub/GenericHub.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/GenericHub/framework.txt

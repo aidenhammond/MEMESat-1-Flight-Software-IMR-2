@@ -1,0 +1,60 @@
+
+cmake_minimum_required(VERSION 3.6)
+set(CMAKE_CXX_STANDARD 17)
+
+set(CRON_CLOCK_SOURCES "libcron/include/libcron/CronClock.h" "libcron/src/CronClock.cpp")
+
+add_custom_command(
+  OUTPUT libCronClock.a
+  COMMAND ar rcs libCronClock.a ${CRON_CLOCK_SOURCES}
+  DEPENDS ${CRON_CLOCK_SOURCES}
+  COMMENT "Creating static library libCronClock.a"
+)
+add_custom_target(libCronClock_archive ALL DEPENDS libCronClock.a)
+add_library(CronClock ${CRON_CLOCK_SOURCES})
+add_dependencies(CronClock libCronClock_archive)
+
+set(CRON_DATA_SOURCES "libcron/include/libcron/CronData.h" "libcron/src/CronData.cpp")
+add_custom_command(
+  OUTPUT libCronData.a
+  COMMAND ar rcs libCronData.a ${CRON_DATA_SOURCES}
+  DEPENDS ${CRON_DATA_SOURCES}
+  COMMENT "Creating static library libCronData.a"
+)
+add_custom_target(libCronData_archive ALL DEPENDS libCronData.a)
+add_library(CronData ${CRON_DATA_SOURCES})
+add_dependencies(CronData libCronData_archive)
+
+set(CRON_RANDOMIZATION_SOURCES "libcron/include/libcron/CronRandomization.h" "libcron/src/CronRandomization.cpp")
+add_custom_command(
+  OUTPUT libCronRandomization.a
+  COMMAND ar rcs libCronRandomization.a ${CRON_RANDOMIZATION_SOURCES}
+  DEPENDS ${CRON_RANDOMIZATION_SOURCES}
+  COMMENT "Creating static library libCronRandomization.a"
+)
+add_custom_target(libCronRandomization_archive ALL DEPENDS libCronRandomization.a)
+add_library(CronRandomization ${CRON_RANDOMIZATION_SOURCES})
+add_dependencies(CronRandomization libCronRandomization_archive)
+
+set(CRON_SCHEDULE_SOURCES "libcron/include/libcron/CronSchedule.h" "libcron/src/CronSchedule.cpp")
+add_custom_command(
+  OUTPUT libCronSchedule.a
+  COMMAND ar rcs libCronSchedule.a ${CRON_SCHEDULE_SOURCES}
+  DEPENDS ${CRON_SCHEDULE_SOURCES}
+  COMMENT "Creating static library libCronSchedule.a"
+)
+add_custom_target(libCronSchedule_archive ALL DEPENDS libCronSchedule.a)
+add_library(CronSchedule ${CRON_SCHEDULE_SOURCES})
+add_dependencies(CronSchedule libCronSchedule_archive)
+
+set(TASK_SOURCES "libcron/include/libcron/Task.h" "libcron/src/Task.cpp")
+add_custom_command(
+  OUTPUT libTask.a
+  COMMAND ar rcs libTask.a ${TASK_SOURCES}
+  DEPENDS ${TASK_SOURCES}
+  COMMENT "Creating static library libTask.a"
+)
+add_custom_target(libTask_archive ALL DEPENDS libTask.a)
+add_library(Task ${TASK_SOURCES})
+add_dependencies(Task libTask_archive)
+

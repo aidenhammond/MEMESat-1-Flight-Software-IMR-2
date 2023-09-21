@@ -1,0 +1,29 @@
+# Build
+Makefile
+**/build*
+
+## Automatically downloaded dependencies upon `fprime-util build`
+gtest/
+
+# Deliverables
+*.doc
+*.pdf
+
+# Editors and IDEs
+.vscode
+
+# Debugging
+seed-history
+
+# Fprime Autocoder Cache
+*.py.bak
+*.pyc
+
+# Logging
+**/logs/*
+
+
+# Misc
+.DS_Store
+seqs
+Ref/libcron/libs/*

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_PrmDb.a  CMakeFiles/Svc_PrmDb.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_PrmDb.a

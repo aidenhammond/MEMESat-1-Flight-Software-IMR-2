@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/PolyDbComponentAi.xml
+Svc_PolyIf;Os;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/PolyDb/PolyDb.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Types/Types.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/PolyIf/PolyIf.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/PolyDb/PolyDb.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/PolyDb/framework.txt

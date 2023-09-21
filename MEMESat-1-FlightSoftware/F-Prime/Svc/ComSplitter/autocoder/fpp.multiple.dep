@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/ComSplitterComponentAi.xml
+Fw_Com;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ComSplitter/ComSplitter.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Com/Com.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ComSplitter/ComSplitter.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ComSplitter/framework.txt

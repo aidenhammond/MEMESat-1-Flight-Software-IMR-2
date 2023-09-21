@@ -1,0 +1,3 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/edit_cache.dir
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/rebuild_cache.dir
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools.dir

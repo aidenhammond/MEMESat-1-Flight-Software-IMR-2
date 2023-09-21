@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_CmdSequencer.a  CMakeFiles/Svc_CmdSequencer.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_CmdSequencer.a

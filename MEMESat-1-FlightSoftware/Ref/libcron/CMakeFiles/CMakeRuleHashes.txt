@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+89a96ff1b1c51ecc3eb3cc3d0e081371 libs/libCronClock.a
+e548c983d51ebfe1b2de6d205bc4c8fd libs/libCronData.a
+268760385f175a1d0d8d3f80e984057d libs/libCronRandomization.a
+ce03a33a97035cd9c12b53ef57acc96d libs/libCronSchedule.a
+01b1d73af10bbf13440aeb96bce88422 libs/libTask.a

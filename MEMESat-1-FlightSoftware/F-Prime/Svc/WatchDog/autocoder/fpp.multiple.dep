@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/WatchDogPortAi.xml
+Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/WatchDog/WatchDog.fpp
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/WatchDog/WatchDog.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/WatchDog/framework.txt

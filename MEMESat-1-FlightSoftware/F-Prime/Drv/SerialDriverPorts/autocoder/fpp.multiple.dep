@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/SerialReadPortAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/SerialReadStatusEnumAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/SerialWritePortAi.xml
+Fw_Buffer;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/SerialDriverPorts/SerialDriverPorts.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/SerialDriverPorts/SerialDriverPorts.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/framework.txt

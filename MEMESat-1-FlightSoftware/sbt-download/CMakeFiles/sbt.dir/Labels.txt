@@ -1,0 +1,14 @@
+# Target labels
+ sbt
+# Source files and their labels
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt-complete.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-install.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-mkdir.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-download.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-update.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-patch.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-configure.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-build.rule
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-test.rule

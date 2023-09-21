@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/SerialReadPortAc.hpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/SerialReadPortAc.cpp
+
+
+port
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/SerialDriverPorts/SerialDriverPorts.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SerialDriverPorts/framework.txt

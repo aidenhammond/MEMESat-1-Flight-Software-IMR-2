@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Cmd/Cmd.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Tlm/Tlm.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Sched/Sched.fpp

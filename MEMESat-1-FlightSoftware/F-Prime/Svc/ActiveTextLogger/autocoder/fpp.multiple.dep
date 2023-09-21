@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/ActiveTextLoggerComponentAi.xml
+Fw_Log;Fw_CompQueued;Os;Fw_Prm;Fw_Cmd;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ActiveTextLogger/ActiveTextLogger.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/FpConfig.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ActiveTextLogger/ActiveTextLogger.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/ActiveTextLogger/framework.txt

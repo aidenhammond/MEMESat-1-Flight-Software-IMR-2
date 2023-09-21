@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/ParamValidEnumAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/PrmGetPortAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/PrmSetPortAi.xml
+Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Prm/Prm.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/FpConfig.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Prm/Prm.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Prm/framework.txt

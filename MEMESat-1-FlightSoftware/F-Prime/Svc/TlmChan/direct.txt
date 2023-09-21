@@ -1,0 +1,4 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Com/Com.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Tlm/Tlm.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Ping/Ping.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Sched/Sched.fpp

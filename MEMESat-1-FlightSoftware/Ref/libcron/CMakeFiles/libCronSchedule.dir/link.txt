@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblibCronSchedule.a CMakeFiles/libCronSchedule.dir/libcron/src/CronSchedule.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblibCronSchedule.a

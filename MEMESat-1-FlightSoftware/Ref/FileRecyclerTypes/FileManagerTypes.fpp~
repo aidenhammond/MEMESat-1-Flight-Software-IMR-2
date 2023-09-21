@@ -1,0 +1,13 @@
+module Ref {
+
+  @ A math operation
+  enum FileManagerOp {
+    BEFORETIME @< Deletes all files created before specified time
+    AFTERTIME @< Deletes all files created after specified time
+    NUM @< Deletes number of files in order of age, beginning with oldest
+  }
+  enum Status {
+    COMPLETED
+    FAILED
+  }
+}

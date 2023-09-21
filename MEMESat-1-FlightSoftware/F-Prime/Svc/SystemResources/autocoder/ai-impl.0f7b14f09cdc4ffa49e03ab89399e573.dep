@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/SystemResources/SystemResourcesComponentImpl.hpp-template;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/SystemResources/SystemResourcesComponentImpl.cpp-template
+
+
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/SystemResources/SystemResources.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/SystemResources/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/SystemResources/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/SystemResources/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/SystemResources/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/SystemResources/framework.txt

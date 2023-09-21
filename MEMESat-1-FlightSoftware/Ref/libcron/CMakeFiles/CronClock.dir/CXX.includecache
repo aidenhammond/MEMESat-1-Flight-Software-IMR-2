@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/omercinar/Documents/SSRL/Memesat/MEMESat-1-FlightSoftware/Ref/libcron/libcron/include/libcron/CronClock.h
+chrono
+-
+
+/home/omercinar/Documents/SSRL/Memesat/MEMESat-1-FlightSoftware/Ref/libcron/libcron/src/CronClock.cpp
+../include/libcron/CronClock.h
+/home/omercinar/Documents/SSRL/Memesat/MEMESat-1-FlightSoftware/Ref/libcron/libcron/include/libcron/CronClock.h
+Windows.h
+-
+

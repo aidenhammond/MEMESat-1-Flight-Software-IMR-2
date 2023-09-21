@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libDrv_LinuxGpioDriver.a  CMakeFiles/Drv_LinuxGpioDriver.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libDrv_LinuxGpioDriver.a

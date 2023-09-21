@@ -1,0 +1,10 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Cmd/Cmd.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Com/Com.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Tlm/Tlm.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/CmdSequencer/Commands.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/CmdSequencer/Events.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/CmdSequencer/Telemetry.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Ping/Ping.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Sched/Sched.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Seq/Seq.fpp

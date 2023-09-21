@@ -1,0 +1,14 @@
+Ref.log
+ThreadedTCP.log
+stdout
+isf_dict
+commands/
+channels/
+events/
+dict/
+
+# Ignore environment file for FPrimeVisualizer. Is generated when visualizing the topology with fpv
+Top/.fpv-env
+
+Scheduler/CMakeLists.txt
+

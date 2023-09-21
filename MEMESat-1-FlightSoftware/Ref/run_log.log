@@ -1,0 +1,46 @@
+
+[ERROR] /Users/aiden/MEMESat-1-FlightSoftware/Ref/build-fprime-automatic-native already exists.
+[  0%] Built target Fw_Cfg
+[  3%] Built target codegen
+[  6%] Built target Fw_Types
+[  6%] Built target Fw_Obj
+[  7%] Built target Fw_Logger
+[  9%] Built target Fw_Port
+[  9%] Built target Fw_Time
+[ 10%] Built target Fw_Com
+[ 12%] Built target Fw_Tlm
+[ 13%] Built target Fw_Log
+[ 16%] Built target Fw_Cmd
+[ 18%] Built target Fw_Prm
+[ 20%] Built target Ref_SchedulerPorts
+[ 20%] Built target Utils_Hash
+[ 26%] Built target Os
+[ 27%] Built target Ref_FileRecyclerTypes
+[ 29%] Built target Ref_FileRecyclerPorts
+[ 29%] Built target Fw_Comp
+[ 30%] Built target Fw_CompQueued
+[ 30%] [34m[1mGenerating FileRecyclerComponentAc.hpp, FileRecyclerComponentAc.cpp[0m
+Traceback (most recent call last):
+  File "/Users/aiden/MEMESat-1-FlightSoftware/Autocoders/Python/bin/codegen.py", line 1332, in <module>
+    main()
+  File "/Users/aiden/MEMESat-1-FlightSoftware/Autocoders/Python/bin/codegen.py", line 1253, in main
+    xml_type = XmlParser.XmlParser(xml_filename)()
+  File "/Users/aiden/MEMESat-1-FlightSoftware/Autocoders/Python/src/fprime_ac/parsers/XmlParser.py", line 45, in __init__
+    element_tree = etree.parse(fd)
+  File "src/lxml/etree.pyx", line 3538, in lxml.etree.parse
+  File "src/lxml/parser.pxi", line 1897, in lxml.etree._parseDocument
+  File "src/lxml/parser.pxi", line 1917, in lxml.etree._parseFilelikeDocument
+  File "src/lxml/parser.pxi", line 1811, in lxml.etree._parseDocFromFilelike
+  File "src/lxml/parser.pxi", line 1201, in lxml.etree._BaseParser._parseDocFromFilelike
+  File "src/lxml/parser.pxi", line 615, in lxml.etree._ParserContext._handleParseResultDoc
+  File "src/lxml/parser.pxi", line 725, in lxml.etree._handleParseResult
+  File "src/lxml/parser.pxi", line 654, in lxml.etree._raiseParseError
+  File "/Users/aiden/MEMESat-1-FlightSoftware/Ref/build-fprime-automatic-native/Ref/FileRecycler/FileRecyclerComponentAi.xml", line 182
+lxml.etree.XMLSyntaxError: attributes construct error, line 182, column 119
+2023/02/21 20:49:59 socat[63601] N PTY is /dev/ttys013
+2023/02/21 20:49:59 socat[63601] N PTY is /dev/ttys014
+2023/02/21 20:49:59 socat[63601] N starting data transfer loop with FDs [5,5] and [7,7]
+2023/02/21 20:52:14 socat[63601] N socat_signal(): handling signal 2
+2023/02/21 20:52:14 socat[63601] N exiting on signal 2
+2023/02/21 20:52:14 socat[63601] N socat_signal(): finishing signal 2
+2023/02/21 20:52:14 socat[63601] N exit(130)

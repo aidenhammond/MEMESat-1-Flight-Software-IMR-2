@@ -1,0 +1,6 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Cmd/Cmd.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Com/Com.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ComLogger/Commands.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/ComLogger/Events.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Ping/Ping.fpp

@@ -1,0 +1,3 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/rebuild_cache.dir
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/edit_cache.dir
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt.dir

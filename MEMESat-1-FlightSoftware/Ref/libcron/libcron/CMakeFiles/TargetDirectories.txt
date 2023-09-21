@@ -1,0 +1,3 @@
+/Users/aiden/MEMESat-1-FlightSoftware/Ref/libcron/libcron/CMakeFiles/libcron.dir
+/Users/aiden/MEMESat-1-FlightSoftware/Ref/libcron/libcron/CMakeFiles/edit_cache.dir
+/Users/aiden/MEMESat-1-FlightSoftware/Ref/libcron/libcron/CMakeFiles/rebuild_cache.dir

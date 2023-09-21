@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/FatalHandlerComponentAi.xml
+Svc_Fatal;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FatalHandler/FatalHandler.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Fatal/Fatal.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/FpConfig.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FatalHandler/FatalHandler.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FatalHandler/framework.txt

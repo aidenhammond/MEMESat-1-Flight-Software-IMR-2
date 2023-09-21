@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/CMakeFiles/sbt-complete.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-install.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-mkdir.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-download.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-update.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-patch.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-configure.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-build.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/sbt-download/sbt-prefix/src/sbt-stamp/sbt-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sbt"
+		],
+		"name" : "sbt"
+	}
+}

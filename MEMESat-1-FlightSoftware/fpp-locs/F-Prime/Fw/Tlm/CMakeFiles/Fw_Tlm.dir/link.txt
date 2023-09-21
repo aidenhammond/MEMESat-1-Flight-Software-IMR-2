@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_Tlm.a  CMakeFiles/Fw_Tlm.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_Tlm.a

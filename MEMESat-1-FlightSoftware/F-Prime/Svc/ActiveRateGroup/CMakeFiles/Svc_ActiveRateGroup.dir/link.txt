@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libSvc_ActiveRateGroup.a  CMakeFiles/Svc_ActiveRateGroup.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libSvc_ActiveRateGroup.a

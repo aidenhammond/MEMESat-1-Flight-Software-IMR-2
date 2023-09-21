@@ -1,0 +1,2 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxSpiDriver/Events.fppi
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxSpiDriver/Telemetry.fppi

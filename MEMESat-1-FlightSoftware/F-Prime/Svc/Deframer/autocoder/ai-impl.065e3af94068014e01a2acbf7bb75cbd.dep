@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Deframer/DeframerComponentImpl.hpp-template;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Deframer/DeframerComponentImpl.cpp-template
+
+
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Deframer/Deframer.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Deframer/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Deframer/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Deframer/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Deframer/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Deframer/framework.txt

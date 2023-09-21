@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/SpiReadWritePortAi.xml
+Fw_Buffer;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/SpiDriverPorts/SpiDriverPorts.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/SpiDriverPorts/SpiDriverPorts.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/SpiDriverPorts/framework.txt

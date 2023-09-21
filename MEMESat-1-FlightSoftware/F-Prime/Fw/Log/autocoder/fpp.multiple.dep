@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/LogPortAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/LogSeverityEnumAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/LogTextPortAi.xml
+Fw_Time;Fw_Tlm;Fw_Com;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/config/FpConfig.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Log/Log.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Fw/Log/framework.txt

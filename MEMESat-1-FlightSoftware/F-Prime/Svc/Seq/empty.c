@@ -1,0 +1,1 @@
+#define CMAKE_EMPTY_SOURCE

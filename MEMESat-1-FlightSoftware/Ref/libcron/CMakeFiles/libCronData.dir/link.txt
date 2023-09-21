@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblibCronData.a CMakeFiles/libCronData.dir/libcron/src/CronData.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblibCronData.a

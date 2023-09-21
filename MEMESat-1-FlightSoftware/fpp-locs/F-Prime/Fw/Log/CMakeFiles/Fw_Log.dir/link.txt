@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/Linux/libFw_Log.a  CMakeFiles/Fw_Log.dir/empty.c.o
+/usr/bin/ranlib ../../../lib/Linux/libFw_Log.a

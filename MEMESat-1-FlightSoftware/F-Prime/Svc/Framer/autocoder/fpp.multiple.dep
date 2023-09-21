@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/FramerComponentAi.xml
+Drv_ByteStreamDriverModel;Fw_Buffer;Fw_Com;Fw_Time;Os;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Framer/Framer.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/ByteStreamDriverModel/ByteStreamDriverModel.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Com/Com.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Time/Time.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Framer/Framer.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Framer/framework.txt

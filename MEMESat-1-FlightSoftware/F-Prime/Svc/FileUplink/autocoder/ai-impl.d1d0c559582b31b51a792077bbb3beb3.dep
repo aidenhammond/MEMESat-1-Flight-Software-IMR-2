@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileUplink/FileUplinkComponentImpl.hpp-template;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileUplink/FileUplinkComponentImpl.cpp-template
+
+
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileUplink/FileUplink.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileUplink/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileUplink/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileUplink/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileUplink/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileUplink/framework.txt

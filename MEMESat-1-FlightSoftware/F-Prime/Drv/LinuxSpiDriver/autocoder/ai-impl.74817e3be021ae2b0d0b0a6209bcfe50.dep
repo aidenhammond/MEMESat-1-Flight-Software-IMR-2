@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxSpiDriver/LinuxSpiDriverComponentImpl.hpp-template;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxSpiDriver/LinuxSpiDriverComponentImpl.cpp-template
+
+
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxSpiDriver/LinuxSpiDriver.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxSpiDriver/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxSpiDriver/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxSpiDriver/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxSpiDriver/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxSpiDriver/framework.txt

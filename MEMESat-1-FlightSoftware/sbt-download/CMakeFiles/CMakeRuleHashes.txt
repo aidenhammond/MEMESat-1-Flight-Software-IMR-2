@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+edb3d49f063b9484c62eee8cad87a822 CMakeFiles/sbt
+795c46ea72210ebd01c16ad4382a0066 CMakeFiles/sbt-complete
+be7a7b6399b7685cce760cbe108fd11e sbt-prefix/src/sbt-stamp/sbt-build
+6512f9f01e53e052dfb87cca901c149f sbt-prefix/src/sbt-stamp/sbt-configure
+ee0ec5f89ca97221de49bda1b829ceb3 sbt-prefix/src/sbt-stamp/sbt-download
+55e32fdf058c4d570f2cd5f751cca343 sbt-prefix/src/sbt-stamp/sbt-install
+45b554bfeaf23ad09d9c0bcdd87cb638 sbt-prefix/src/sbt-stamp/sbt-mkdir
+554d4ffdeb549677f07285dc2d8c86d9 sbt-prefix/src/sbt-stamp/sbt-patch
+39f7d291fdba93afa74ece110ceb3293 sbt-prefix/src/sbt-stamp/sbt-test
+6ea06810e52fddf47c7e771dab93927d sbt-prefix/src/sbt-stamp/sbt-update

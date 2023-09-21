@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Cfg/ConfigCheck.cpp
+FpConfig.hpp
+-
+Fw/Types/BasicTypes.hpp
+-
+
+Fw/Types/BasicTypes.hpp
+FpConfig.hpp
+-
+StandardTypes.hpp
+-
+
+Fw/Types/Linux/StandardTypes.hpp
+cstdint
+-
+
+config/FpConfig.hpp
+

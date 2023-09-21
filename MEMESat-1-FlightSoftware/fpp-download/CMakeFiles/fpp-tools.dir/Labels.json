@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/CMakeFiles/fpp-tools-complete.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-install.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-mkdir.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-download.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-update.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-patch.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-configure.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-build.rule"
+		},
+		{
+			"file" : "/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-download/fpp-tools-prefix/src/fpp-tools-stamp/fpp-tools-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fpp-tools"
+		],
+		"name" : "fpp-tools"
+	}
+}

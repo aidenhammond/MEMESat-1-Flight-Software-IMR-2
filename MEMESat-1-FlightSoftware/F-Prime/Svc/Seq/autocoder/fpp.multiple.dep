@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/CmdSeqCancelPortAi.xml;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/CmdSeqInPortAi.xml
+Fw_Types;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Seq/Seq.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Types/Types.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/Seq/Seq.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/Seq/framework.txt

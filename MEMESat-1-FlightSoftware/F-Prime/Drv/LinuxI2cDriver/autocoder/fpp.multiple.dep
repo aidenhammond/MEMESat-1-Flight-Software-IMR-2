@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/LinuxI2cDriverComponentAi.xml
+Drv_I2cDriverPorts;Os;Fw_Comp;Fw_Prm;Fw_Cmd;Fw_Log;Fw_Tlm;Fw_Com;Fw_Time;Fw_Port;Fw_Types;Fw_Cfg
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxI2cDriver/LinuxI2cDriver.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/I2cDriverPorts/I2cDriverPorts.fpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/Fw/Buffer/Buffer.fpp
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Drv/LinuxI2cDriver/LinuxI2cDriver.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Drv/LinuxI2cDriver/framework.txt

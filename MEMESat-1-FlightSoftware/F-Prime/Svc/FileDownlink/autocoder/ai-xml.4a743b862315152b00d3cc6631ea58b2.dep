@@ -1,0 +1,5 @@
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/SendFileCompletePortAc.hpp;/home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/SendFileCompletePortAc.cpp
+
+
+port
+/home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-tools-install/fpp-depend /home/aiden/SSRL/MEMESat-1-FlightSoftware/fpp-locs/locs.fpp /home/aiden/SSRL/MEMESat-1-FlightSoftware/Svc/FileDownlink/FileDownlink.fpp -d /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/direct.txt -i /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/included.txt -m /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/missing.txt -g /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/generated.txt -f /home/aiden/SSRL/MEMESat-1-FlightSoftware/F-Prime/Svc/FileDownlink/framework.txt
